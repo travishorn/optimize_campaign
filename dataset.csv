@@ -1,0 +1,11 @@
+customer_id,transaction_date,total_spent,age,gender,device,category
+101,2023-11-01,150.50,34,Female,Mobile,Electronics
+102,11/02/2023,89.99,45,Male,Laptop,Home & Kitchen
+103,"November 3, 2023",NaN,29,Female,Tablet,Fashion
+104,2023/11/04,200.00,,Male,Mobile,Electronics
+105,11-05-2023,120.75,38,Female,Desktop,Beauty
+106,2023.11.06,305.00,NaN,Male,Mobile,Home & Kitchen
+107,,50.25,26,Female,Laptop,Fashion
+108,11/08/2023,NaN,42,,Mobile,Beauty
+109,2023/11/09,79.99,33,Female,Tablet,Electronics
+110,2023-11-10,5000.00,28,Male,Mobile,Luxury
